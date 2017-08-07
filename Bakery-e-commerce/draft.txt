@@ -1,0 +1,79 @@
+<div class="row column text-center">
+<h2>Our Newest Products</h2>
+<hr>
+</div>
+<div class="row small-up-2 large-up-4">
+<div class="column">
+<img class="thumbnail" src="C:\Users\Renu\Desktop\choc.jpg"; width=300;height=400>
+<h5>Chochlate cake</h5>
+<p>$200</p>
+<a href="./Foundation _ Welcome_files/Foundation _ Welcome.html" class="button expanded">Buy</a>
+</div>
+<div class="column">
+<img class="thumbnail" src="C:\Users\Renu\Desktop\strawberry-frosting-sl-x.jpg" width=300;height=400>
+<h5>strawbwerry cake</h5>
+<p>$100</p>
+<a href="./Foundation _ Welcome_files/Foundation _ Welcome.html" class="button expanded">Buy</a>
+</div>
+<div class="column">
+<img class="thumbnail" src="C:\Users\Renu\Desktop\red.jpg" width=300;height=400 >
+<h5>Red Velvet cake</h5>
+<p>$120</p>
+<a href="./Foundation _ Welcome_files/Foundation _ Welcome.html" class="button expanded">Buy</a>
+</div>
+<div class="column">
+<img class="thumbnail" src="C:\Users\Renu\Desktop\cheese.jpg" width=300;height=400>
+<h5>Cheese cake</h5>
+<p>$90</p>
+<a href="./Foundation _ Welcome_files/Foundation _ Welcome.html" class="button expanded">Buy</a>
+</div>
+</div><br><br>
+
+
+
+///// banner draft
+<div class="orbit" role="region" aria-label="Favorite Space Pictures" data-orbit="ywpooo-orbit" max-width: 500px; max-height: 500px;>
+<ul class="orbit-container" tabindex="0" style="height: 400px width: 500px;" >
+<button class="orbit-previous" aria-label="previous" tabindex="0"><span class="show-for-sr">Previous Slide</span>◀</button>
+<button class="orbit-next" aria-label="next" tabindex="0"><span class="show-for-sr">Next Slide</span>▶</button>
+<li class="orbit-slide" data-slide="0" style="max-height: 400px max-width: 500px; display: none;">
+<img src="C:\Users\Renu\Desktop\CAKES\IMAGES\banner1.png">
+</li>
+<li class="orbit-slide" data-slide="1" style="position: relative; max-height: 400px max-width: 500px;top: 0px; display: none ;">
+<img src="C:\Users\Renu\Desktop\CAKES\IMAGES\banner2.png">
+</li>
+<li class="orbit-slide" data-slide="2" style="position: relative; max-height: 400px max-width: 500px; top: 0px; display: none;">
+<img src="C:\Users\Renu\Desktop\CAKES\IMAGES\banner3.png">
+</li>
+<li class="orbit-slide is-active" data-slide="3" aria-live="polite" style="position: relative; max-height: 200px;max-width: 500px; top: 0px; display: block;">
+<img src="C:\Users\Renu\Desktop\CAKES\IMAGES\cake3.jpg">
+</li>
+</ul>
+</div>
+
+
+
+
+
+
+
+///////////// shape...(layer)
+<table bgcolor="#ffe5e5" style="width: 100%;" cellspacing="0" cellpadding="0" border="0">
+	<tbody><tr>
+		<td bgcolor="#ffe5e5" width="50%" align="center" valign="top">
+			<!<a href="design_a_cake_1_update.php?shape=round">
+			<img src="C:\Users\Renu\Desktop\CAKES\IMAGES\1tier.jpg" width="200" height="200" border="0" alt="Round Cake" title="Round Cake"><br>
+			<span style="font-size: 16px; font-weight: bold;">One Tier</span></a><br>
+		</td>
+		<td bgcolor="#ffe5e5" width="50%" align="center" valign="top">
+			<!<a href="design_a_cake_1_update.php?shape=square">
+			<img src="C:\Users\Renu\Desktop\CAKES\IMAGES\2tier.jpg" width="200" height="200" border="0" alt="Square Cake" title="Square Cake"><br>
+			<span style="font-size: 16px; font-weight: bold;">Two Tier</span></a><br>
+		</td>
+		<td bgcolor="#ffe5e5" width="50%" align="center" valign="top">
+			<!<a href="design_a_cake_1_update.php?shape=square">
+			<img src="C:\Users\Renu\Desktop\CAKES\IMAGES\3tier.jpg" width="200" height="200" border="0" alt="Square Cake" title="Square Cake"><br>
+			<span style="font-size: 16px; font-weight: bold;">Three Tier</span></a><br>
+		</td>
+	</tr>
+</tbody></table>
